@@ -1,7 +1,8 @@
 ### Project Overview
 
 This project is a comprehensive data visualization dashboard built using React, Victory, and Tailwind CSS. It fetches data from a backend API and displays it in various forms, including pie charts, bar charts, and line charts. The primary components of the project include the Dashboard, PieChart, Barchart, and Data components. Each component is designed to present specific data insights in a user-friendly and interactive manner.
-![image](https://github.com/govinds9/Dashboard_frontend/assets/94511091/b6976e88-ca81-4652-8bcf-105ca8cb6102)
+
+![Untitled design](https://github.com/govinds9/Dashboard_frontend/assets/94511091/d10af892-c395-40c9-bed0-661c22a9f7dd)
 
 
 
@@ -28,6 +29,7 @@ This project is a comprehensive data visualization dashboard built using React, 
    - Fetches and displays tabular data from the API.
    - Utilizes a customizable table with columns such as topic, title, country, start year, end year, sector, region, intensity, likelihood, pestle, relevance, source, and link.
    - Provides a comprehensive view of the dataset with sortable and searchable features.
+![image](https://github.com/govinds9/Dashboard_frontend/assets/94511091/b6976e88-ca81-4652-8bcf-105ca8cb6102)
 
 ### Technical Stack
 
