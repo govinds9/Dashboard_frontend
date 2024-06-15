@@ -33,7 +33,7 @@ const Barchart = () => {
     const fetchData = async () => {
       try {
         setLoading(true);
-        const response = await fetch('http://localhost:8000/api/v1/barchart');
+        const response = await fetch('https://dashboard-backend-d5x7.onrender.com/api/v1/barchart');
         if (!response.ok) {
           throw new Error('Network response was not ok');
         }
